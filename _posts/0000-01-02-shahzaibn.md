@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+When at rome, do as romans do
 Use the left arrow to go back!
